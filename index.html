@@ -87,6 +87,7 @@
             hour = date.getHours();
             minutes = date.getMinutes();
             suffix = hour >= 12 ? "PM" : "AM";
+            minutes = minutes < 10 ? "0" + minutes : minutes;
 
             $("#time").html(`${hour}:${minutes} ${suffix}`);
         </script>
