@@ -16,7 +16,7 @@
 
 -   <h4>Desktop</h4> ```Obs.: Not meant for mobile!```
     <p align="center"> 
-      <img src="public/base/preview/desktop-v2.png"> 
+      <img src="public/base/preview/desktop-v3.png"> 
     </p>
 
 ### Credits
