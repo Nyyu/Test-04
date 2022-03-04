@@ -3,11 +3,21 @@
 
     --width: 950px;
 }
+* {
+    font-family: "Montserrat", sans-serif;
+}
 
-body {
+body,
+h1,
+h2,
+h3,
+p,
+a {
     margin: 0;
     padding: 0;
+}
 
+body {
     overflow: hidden;
 
     /* remove backslash! */
@@ -23,6 +33,21 @@ body {
     width: 950px;
     height: 100vh;
     box-shadow: 0 0 150px 450px var(--bg-color);
+}
+
+.nav {
+    color: white;
+    display: flex;
+    gap: 15px;
+    flex: 1 0;
+    padding: 35px;
+    padding-bottom: 0;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.user i:nth-child(1) {
+    margin-right: 10px;
 }
 
 .border {
