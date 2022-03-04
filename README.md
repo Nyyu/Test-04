@@ -14,7 +14,7 @@
 
 -   [Link](https://nyyu.github.io/Test-04/)
 
--   <h5>Desktop</h5> `Obs.: Not meant for mobile!`
+-   <h4>Desktop</h4> ```Obs.: Not meant for mobile!```
     <p align="center"> 
       <img src="public/base/preview/desktop.png"> 
     </p>
