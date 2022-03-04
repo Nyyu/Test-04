@@ -14,10 +14,12 @@
 
 -   [Link](https://nyyu.github.io/Test-04/)
 
--   <h4>Desktop</h4> ```Obs.: Not meant for mobile!```
+-   <h4>Desktop</h4> 
     <p align="center"> 
-      <img src="public/base/preview/desktop-v3.png"> 
+      <img src="public/base/preview/desktop-v4.png"> 
     </p>
+
+`Obs, Not meant for mobile!` <!-- I hate and love prettier, CANT FUCKING USE MARKDOWN DOE -->
 
 ### Credits
 
