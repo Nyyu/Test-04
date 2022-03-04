@@ -10,7 +10,8 @@ body {
 
     overflow: hidden;
 
-    background-image: url("public/images/bg.jpg");
+    /* remove backslash! */
+    background-image: url("https://nyyu.github.io/Test-04/public/images/bg.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
