@@ -2,11 +2,11 @@
 
 ## Table
 
--   [Desc](#desc)
-    -   [Table](#table)
-    -   [Links](#links)
-        -   [Preview](#preview)
-        -   [Credits](#credits)
+- [Desc](#desc)
+  - [Table](#table)
+  - [Links](#links)
+    - [Preview](#preview)
+    - [Credits](#credits)
 
 ## Links
 
@@ -15,7 +15,9 @@
 -   [Link](https://nyyu.github.io/Test-04/)
 
 -   Desktop `Obs.: Not meant for mobile!`
-<p align="center"> <img src="public/base/pewview/desktop.png"> </p>
+<p align="center"> 
+  <img src="public/base/preview/desktop.png"> 
+</p>
 
 ### Credits
 
