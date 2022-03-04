@@ -46,8 +46,41 @@ body {
     align-items: center;
 }
 
+.nav div:nth-child(2) {
+    text-align: center;
+}
+.nav div:nth-child(2) h3 {
+    font-size: 30px;
+    font-weight: 500;
+}
+.nav div:nth-child(2) p {
+    font-size: 20px;
+    letter-spacing: 0.35em;
+}
+
 .user i:nth-child(1) {
     margin-right: 10px;
+}
+
+.carousel-btn {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 20px 0 20px;
+
+    position: relative;
+    top: calc(40vh - 32.5px);
+}
+
+.btn-round {
+    width: 65px;
+    height: 65px;
+
+    border-radius: 100%;
+    background: hsl(0, 0%, 100%, 25%);
+    color: #000000;
+
+    display: grid;
+    place-items: center;
 }
 
 .border {
