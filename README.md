@@ -25,6 +25,7 @@
 
 -   [File](https://linktr.ee/zenn69)
 -   [xz3n](https://www.instagram.com/_.xz3n)
+-   [Art](https://twitter.com/1L9l2Aa8UCL0IGJ)
 
 `(he/she) changes a lot his @, I can NOT keep track of it so the file is here /\`
 
